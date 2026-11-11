@@ -19,7 +19,6 @@ Make sure you have Python 3 installed on your system. Follow these steps to set 
    ```bash
    cd /usr/My_Tools/
 
-
 2. **Install the required dependencies:**
 The tool relies on `requests` and `beautifulsoup4`. Install them via pip:
 ```bash
@@ -69,6 +68,4 @@ Found Path: /product?productId=5
 
 *This tool is created for educational purposes and authorized security testing (Penetration Testing / Bug Bounties) only. The author is not responsible for any misuse or illegal activities.*
 
-```
 
-```
